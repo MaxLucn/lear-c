@@ -1,1 +1,1 @@
-# lear-c
+# learning-c
